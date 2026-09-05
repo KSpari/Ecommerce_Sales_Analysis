@@ -53,7 +53,7 @@ The project includes:
 The project creates charts for:
 
 ### Monthly Sales
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales]([images/monthly_sales.png](https://github.com/KSpari/Ecommerce_Sales_Analysis/blob/main/Images/Monthly_sales.png))
 
 ### Sales by Category
 ![Sales by Category](images/sales_by_category.png)
