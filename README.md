@@ -52,11 +52,20 @@ The project includes:
 
 The project creates charts for:
 
-- Monthly sales
-- Sales by category
-- Sales by region
-- Top 10 products by sales
-- Quantity sold by product
+### Monthly Sales
+![Monthly Sales](images/monthly_sales.png)
+
+### Sales by Category
+![Sales by Category](images/sales_by_category.png)
+
+### Sales by Region
+![Sales by Region](images/sales_by_region.png)
+
+### Top 10 Products by Sales
+![Top 10 Products](images/top_10_products.png)
+
+### Quantity Sold by Product
+![Quantity Sold](images/quantity_sold_by_product.png)
 
 ## 🔍 Key Findings
 
