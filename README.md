@@ -53,19 +53,19 @@ The project includes:
 The project creates charts for:
 
 ### Monthly Sales
-![Monthly Sales]([images/monthly_sales.png](https://github.com/KSpari/Ecommerce_Sales_Analysis/blob/main/Images/Monthly_sales.png))
+![Monthly Sales](Images/monthly_sales.png)
 
 ### Sales by Category
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](Images/sales_by_category.png)
 
 ### Sales by Region
-![Sales by Region](images/sales_by_region.png)
+![Sales by Region](Images/sales_by_region.png)
 
 ### Top 10 Products by Sales
-![Top 10 Products](images/top_10_products.png)
+![Top 10 Products](Images/top_10_products.png)
 
 ### Quantity Sold by Product
-![Quantity Sold](images/quantity_sold_by_product.png)
+![Quantity Sold](Images/quantity_sold_by_product.png)
 
 ## 🔍 Key Findings
 
