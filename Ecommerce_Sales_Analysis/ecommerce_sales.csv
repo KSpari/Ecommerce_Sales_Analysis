@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Product,Category,Quantity,Price,Region
+1001,2025-01-01,Headphones,Accessories,2,2500.0,North
+1002,2025-01-04,USB Cable,Accessories,4,500.0,South
+1003,2025-01-07,Smartwatch,Electronics,1,5000.0,West
+1004,2025-01-10,Mouse,Accessories,1,800.0,West
+1005,2025-01-13,Smartphone,Electronics,1,25000.0,West
+1006,2025-01-16,Smartphone,Electronics,1,25000.0,West
+1007,2025-01-19,Laptop,Electronics,3,55000.0,West
+1008,2025-01-22,Office Chair,Furniture,1,7000.0,
+1009,2025-01-25,Mouse,Accessories,4,800.0,East
+1010,2025-01-28,Smartwatch,Electronics,5,5000.0,South
+1011,2025-01-31,Laptop,Electronics,1,55000.0,West
+1012,2025-02-03,USB Cable,Accessories,3,500.0,South
+1013,2025-02-06,Office Chair,Furniture,3,7000.0,West
+1014,2025-02-09,Smartphone,Electronics,1,25000.0,West
+1015,2025-02-12,Smartphone,Electronics,5,25000.0,East
+1016,2025-02-15,Smartphone,Electronics,1,25000.0,East
+1017,2025-02-18,Headphones,Accessories,3,2500.0,North
+1018,2025-02-22,Mouse,Accessories,2,800.0,East
+1019,2025-02-25,Keyboard,Accessories,4,1500.0,North
+1020,2025-02-28,Tablet,Electronics,3,18000.0,North
+1021,2025-03-03,Monitor,Electronics,1,12000.0,North
+1022,2025-03-06,Smartphone,Electronics,4,25000.0,North
+1023,2025-03-09,Tablet,Electronics,1,18000.0,North
+1024,2025-03-12,Headphones,Accessories,1,2500.0,South
+1025,2025-03-15,Keyboard,Accessories,2,1500.0,East
+1026,2025-03-18,Printer,Electronics,4,9000.0,North
+1027,2025-03-21,Smartphone,Electronics,4,25000.0,West
+1028,2025-03-24,Mouse,Accessories,2,800.0,East
+1029,2025-03-27,Mouse,Accessories,3,800.0,East
+1030,2025-03-30,Laptop,Electronics,1,55000.0,North
+1031,2025-04-02,Mouse,Accessories,5,800.0,South
+1032,2025-04-05,Smartphone,Electronics,1,25000.0,North
+1033,2025-04-08,Laptop,Electronics,1,55000.0,South
+1034,2025-04-11,USB Cable,Accessories,3,500.0,West
+1035,2025-04-15,USB Cable,Accessories,1,500.0,East
+1036,2025-04-18,Printer,Electronics,2,,West
+1037,2025-04-21,Headphones,Accessories,2,2500.0,South
+1038,2025-04-24,Laptop,Electronics,4,55000.0,South
+1039,2025-04-27,Smartwatch,Electronics,5,5000.0,West
+1040,2025-04-30,Keyboard,Accessories,1,1500.0,South
+1041,2025-05-03,Smartphone,Electronics,1,25000.0,West
+1042,2025-05-06,Mouse,Accessories,3,800.0,East
+1043,2025-05-09,Laptop,Electronics,2,55000.0,West
+1044,2025-05-12,Backpack,Bags,5,1800.0,East
+1045,2025-05-15,Tablet,Electronics,4,18000.0,West
+1046,2025-05-18,Monitor,Electronics,2,12000.0,South
+1047,2025-05-21,Headphones,Accessories,4,2500.0,West
+1048,2025-05-24,Mouse,Accessories,3,800.0,South
+1049,2025-05-27,Mouse,Accessories,3,800.0,West
+1050,2025-05-30,Smartphone,Electronics,1,25000.0,West
+1051,2025-06-02,USB Cable,Accessories,5,500.0,North
+1052,2025-06-06,Printer,Electronics,4,9000.0,South
+1053,2025-06-09,Backpack,Bags,2,1800.0,North
+1054,2025-06-12,Backpack,Bags,3,1800.0,South
+1055,2025-06-15,Mouse,Accessories,1,800.0,North
+1056,2025-06-18,Backpack,Bags,1,1800.0,East
+1057,2025-06-21,Laptop,Electronics,4,55000.0,West
+1058,2025-06-24,Smartphone,Electronics,3,25000.0,South
+1059,2025-06-27,Laptop,Electronics,5,55000.0,South
+1060,2025-06-30,Headphones,Accessories,3,2500.0,West
+1061,2025-07-03,Headphones,Accessories,4,2500.0,South
+1062,2025-07-06,Tablet,Electronics,4,18000.0,South
+1063,2025-07-09,Office Chair,Furniture,3,7000.0,North
+1064,2025-07-12,Headphones,Accessories,4,2500.0,South
+1065,2025-07-15,Tablet,Electronics,3,18000.0,East
+1066,2025-07-18,Mouse,Accessories,2,800.0,East
+1067,2025-07-21,Smartphone,Electronics,3,25000.0,West
+1068,2025-07-24,Printer,Electronics,3,9000.0,South
+1069,2025-07-28,Laptop,Electronics,4,55000.0,West
+1070,2025-07-31,USB Cable,Accessories,4,500.0,East
+1071,2025-08-03,Printer,Electronics,1,9000.0,South
+1072,2025-08-06,Smartphone,Electronics,1,25000.0,South
+1073,2025-08-09,Laptop,Electronics,2,55000.0,West
+1074,2025-08-12,Office Chair,Furniture,1,7000.0,East
+1075,2025-08-15,Smartwatch,Electronics,3,5000.0,South
+1076,2025-08-18,Smartwatch,Electronics,4,5000.0,West
+1077,2025-08-21,Printer,Electronics,1,9000.0,East
+1078,2025-08-24,Laptop,Electronics,1,55000.0,West
+1079,2025-08-27,Headphones,Accessories,2,2500.0,North
+1080,2025-08-30,Smartphone,Electronics,2,25000.0,South
+1081,2025-09-02,Office Chair,Furniture,3,7000.0,North
+1082,2025-09-05,Monitor,Electronics,4,12000.0,East
+1083,2025-09-08,Headphones,Accessories,2,2500.0,North
+1084,2025-09-11,Laptop,Electronics,1,55000.0,North
+1085,2025-09-14,Headphones,Accessories,4,2500.0,East
+1086,2025-09-18,Headphones,Accessories,4,2500.0,West
+1087,2025-09-21,Smartwatch,Electronics,1,5000.0,North
+1088,2025-09-24,Monitor,Electronics,2,12000.0,West
+1089,2025-09-27,Backpack,Bags,1,1800.0,North
+1090,2025-09-30,Keyboard,Accessories,4,1500.0,West
+1091,2025-10-03,Smartphone,Electronics,5,25000.0,East
+1092,2025-10-06,Smartwatch,Electronics,5,5000.0,North
+1093,2025-10-09,Printer,Electronics,3,9000.0,East
+1094,2025-10-12,Mouse,Accessories,1,800.0,North
+1095,2025-10-15,Printer,Electronics,1,9000.0,East
+1096,2025-10-18,Mouse,Accessories,3,800.0,East
+1097,2025-10-21,Mouse,Accessories,3,800.0,North
+1098,2025-10-24,Keyboard,Accessories,3,1500.0,North
+1099,2025-10-27,Laptop,Electronics,4,55000.0,North
+1100,2025-10-30,Smartphone,Electronics,1,25000.0,South
+1101,2025-11-02,Laptop,Electronics,4,55000.0,West
+1102,2025-11-05,Monitor,Electronics,3,12000.0,South
+1103,2025-11-09,Headphones,Accessories,1,2500.0,South
+1104,2025-11-12,Mouse,Accessories,4,800.0,East
+1105,2025-11-15,Backpack,Bags,4,1800.0,North
+1106,2025-11-18,Tablet,Electronics,3,18000.0,West
+1107,2025-11-21,Keyboard,Accessories,1,1500.0,East
+1108,2025-11-24,Smartwatch,Electronics,3,5000.0,South
+1109,2025-11-27,Tablet,Electronics,1,18000.0,North
+1110,2025-11-30,Laptop,Electronics,5,55000.0,East
+1111,2025-12-03,Tablet,Electronics,2,18000.0,North
+1112,2025-12-06,Smartphone,Electronics,2,25000.0,East
+1113,2025-12-09,Backpack,Bags,2,1800.0,North
+1114,2025-12-12,Printer,Electronics,3,9000.0,South
+1115,2025-12-15,Monitor,Electronics,5,12000.0,West
+1116,2025-12-18,Backpack,Bags,1,1800.0,South
+1117,2025-12-21,Printer,Electronics,4,9000.0,West
+1118,2025-12-24,Smartphone,Electronics,1,25000.0,North
+1119,2025-12-27,Backpack,Bags,4,1800.0,East
+1120,2025-12-31,Mouse,Accessories,1,800.0,South
